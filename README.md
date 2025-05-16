@@ -1,19 +1,28 @@
-# Getting Started
-Install the dependencies and run the project
-```
+SaveLang is a simple and efficient web app that helps users save and detect languages easily. Built using modern frontend tools, it offers a smooth and responsive user experience.
+
+🚀 Getting Started
+Install the dependencies and start the development server:
+
+bash
+Copy
+Edit
 npm install
 npm start
-```
+This project uses Vite for lightning-fast development. Visit the official Vite site to learn more about configuring it.
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+🔗 Live Demo
+Check out the live version here:
+👉 https://savelang.netlify.app/
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+📂 Repository
+Source code available on GitHub:
+👉 https://github.com/Himabindhu2005/save-lang
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+📚 About the Project
+This project was built as part of my learning journey with frontend development. It focuses on:
 
-Happy Coding!
+Detecting and displaying the language of the input text
+
+Clean and user-friendly UI
+
+Fast and responsive performance using Vite
