@@ -4,10 +4,15 @@ SaveLang is a simple and efficient web app that helps users save and detect lang
 Install the dependencies and start the development server:
 
 bash
+
 Copy
+
 Edit
+
 npm install
+
 npm start
+
 This project uses Vite for lightning-fast development. Visit the official Vite site to learn more about configuring it.
 
 🔗 Live Demo
