@@ -1,17 +1,14 @@
 SaveLang is a simple and efficient web app that helps users save and detect languages easily. Built using modern frontend tools, it offers a smooth and responsive user experience.
 
-🚀 Getting Started
+##🚀 Getting Started
 Install the dependencies and start the development server:
 
-bash
-
-Copy
-
-Edit
+```bash
 
 npm install
 
 npm start
+```
 
 This project uses Vite for lightning-fast development. Visit the official Vite site to learn more about configuring it.
 
